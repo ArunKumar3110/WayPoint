@@ -1,3 +1,4 @@
+
 # WayPoint
 
 This repository contains a detailed analysis and documentation of the provided screenshots related to the WayPoint application. The descriptions highlight key functionalities and design aspects visible in the images, focusing on time tracking, employee attendance, and live location monitoring features.
@@ -31,7 +32,8 @@ This repository contains a detailed analysis and documentation of the provided s
 - **Version Information**:  
   Displays the app version (2.10(1)).
 
-![image](https://github.com/user-attachments/assets/f5bf2acf-5745-4db0-98f7-cdfc2bd5e7af)
+![image](https://github.com/user-attachments/assets/76b9bbdc-443e-4181-8ea3-9e5fdd11539b)
+
 
 ---
 
@@ -59,7 +61,8 @@ This repository contains a detailed analysis and documentation of the provided s
 - **Additional Options**:
   - "Show Map View" link for location-based attendance data.
 
-![image](https://github.com/user-attachments/assets/2c39d206-c197-461d-8676-c7172f2f4990)
+![image](https://github.com/user-attachments/assets/24307c00-4238-48c7-b917-b51738b037c2)
+
 
 ---
 
@@ -79,6 +82,7 @@ This repository contains a detailed analysis and documentation of the provided s
 - **Date Filter**:  
   Allows viewing travel data for past dates.
 
-![image](https://github.com/user-attachments/assets/7638222d-5edd-46e5-a37b-adfd1d3b20b7)
+![image](https://github.com/user-attachments/assets/210631d6-7198-4f99-8565-2f03e0cf0612)
+
 
 

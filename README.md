@@ -28,8 +28,7 @@ This repository contains a detailed analysis and documentation of the provided s
   - **FAQ & Help**: Provides support.
   - **Privacy Policy**: Displays legal information.
   
-- **Version Information**:  
-  Displays the app version (2.10(1)).
+
 
 <div style="position:relative; width:100%; height:100%">
   <img src="https://github.com/user-attachments/assets/76b9bbdc-443e-4181-8ea3-9e5fdd11539b" width="250" height="500" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);" />

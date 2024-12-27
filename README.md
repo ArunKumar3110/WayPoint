@@ -31,7 +31,7 @@ This repository contains a detailed analysis and documentation of the provided s
 - **Version Information**:  
   Displays the app version (2.10(1)).
 
-<img src="https://github.com/user-attachments/assets/76b9bbdc-443e-4181-8ea3-9e5fdd11539b" width="250" height="500" />
+<img src="https://github.com/user-attachments/assets/76b9bbdc-443e-4181-8ea3-9e5fdd11539b" width="250" height="500" align="center" />
 
 ---
 
@@ -59,7 +59,7 @@ This repository contains a detailed analysis and documentation of the provided s
 - **Additional Options**:
   - "Show Map View" link for location-based attendance data.
 
-<img src="https://github.com/user-attachments/assets/24307c00-4238-48c7-b917-b51738b037c2" width="250" height="500" />
+<img src="https://github.com/user-attachments/assets/24307c00-4238-48c7-b917-b51738b037c2" width="250" height="500" align="center" />
 
 ---
 
@@ -79,4 +79,4 @@ This repository contains a detailed analysis and documentation of the provided s
 - **Date Filter**:  
   Allows viewing travel data for past dates.
 
-<img src="https://github.com/user-attachments/assets/210631d6-7198-4f99-8565-2f03e0cf0612" width="250" height="500" />
+<img src="https://github.com/user-attachments/assets/210631d6-7198-4f99-8565-2f03e0cf0612" width="250" height="500" align="center" />
